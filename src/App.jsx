@@ -14,7 +14,7 @@ const App = () => {
       <Rating heading= "Ваш відгук2" />
       <Rating  heading= "Ваш відгук3" /> */}
       <Rating feedBackMessage = {customMessage} />
-      <Rating heading= "Ваш відгук2" color="red" />
+ 
       {/* <Rating  color="green" /> */}
 
       </>
